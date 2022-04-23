@@ -38,7 +38,7 @@ zerolabnet/tor-bridges-proxy:latest
 
 ### Пароль для авторизации в админ-панеле
 
-После первого запуска смотрим логи контейнера, в них вы найдере пароль для авторизации `Your login password:`.
+После первого запуска смотрим лог контейнера, в нем вы найдере пароль для авторизации `Your login password:`.
 
 ```bash
 docker logs tor-bridges-proxy
