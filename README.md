@@ -1,3 +1,12 @@
+<h1 align="center">
+ <img
+  width="100%"
+  alt="logo"
+  src="https://raw.githubusercontent.com/zerolabnet/tor-bridges-proxy/main/docs/logo.jpg">
+    <br/>
+    Tor Bridges Proxy
+</h1>
+
 ### Описание
 
 Абсолютно минималистичный образ Tor с SOCKS 5 proxy сервером, DNS over Tor и веб-интерфейсом с авторизацией для добавления мостов. Без функции выходного узла, только SOCKS 5 proxy и DNS over Tor. При первом запуске автоматически генерируется пароль для доступа в админ-панель.
